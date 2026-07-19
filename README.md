@@ -14,28 +14,9 @@ Desenvolvedor Full-Stack focado em criar interfaces imersivas e sistemas de alta
 
 <h3 align="left">Connect with me!</h3>
 
-<div align="left">
-  <!-- Botão E-mail -->
-  <a href="mailto:contato@ericsevendev@gmail.com" style="text-decoration: none;">
-    <span style="margin:4px;background-color: #000000; color: 7A0702; padding: 10px 20px; font-family: sans-serif; font-weight: bold; margin-right: 10px; display: inline-block;">
-      EMAIL
-    </span>
-  </a>
-
-  <!-- Botão LinkedIn -->
-  <a href="https://www.linkedin.com/in/eric-neves-dev/" style="text-decoration: none;">
-    <span style="margin:4px;background-color: #000000; color: 7A0702; padding: 10px 20px; font-family: sans-serif; font-weight: bold; margin-right: 10px; display: inline-block;">
-      LINKEDIN
-    </span>
-  </a>
-
-  <!-- Botão Instagram -->
-  <a href="https://www.instagram.com/ericnevesdev/" style="text-decoration: none;">
-    <span style="margin:4px;background-color: #000000; color: 7A0702; padding: 10px 20px; font-family: sans-serif; font-weight: bold; display: inline-block;">
-      INSTAGRAM
-    </span>
-  </a>
-</div>
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:contato@ericsevendev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/eric-neves-dev/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=F1F1F1&color:FFF)](https://www.instagram.com/ericnevesdev/)
 
 
 <h3 align="left">My Stack ~</h3>
