@@ -10,7 +10,7 @@ Desenvolvedor Full-Stack focado em criar interfaces imersivas e sistemas de alta
  
 #
 
-<img align="right" alt="" height="150px" src="src/own.gif">
+<img align="right" alt="" height="150px" src="src/owl.gif">
 
 <h3 align="left">Connect with me!</h3>
 
